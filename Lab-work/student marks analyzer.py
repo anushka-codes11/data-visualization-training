@@ -59,4 +59,10 @@ for name, data in results.items():
 
 print("\n----- Topper(s) -----")
 print("Topper(s):", ", ".join(toppers))
+
 print(f"Highest Average: {highest_avg:.2f}")
+
+
+// output :
+Topper(s) : David 
+Highest average : 95.67
