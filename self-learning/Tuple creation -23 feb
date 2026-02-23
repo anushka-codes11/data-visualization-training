@@ -1,3 +1,10 @@
 # Creating and printing a tuple
 numbers = (10, 20, 30, 40, 50)
-print("Tuple elements:", numbers)
+
+print("Tuple elements:", numbers) 
+
+//output :
+Tuple elements: (10, 20, 30, 40, 50)
+
+
+
